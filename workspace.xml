@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e91790dc-f936-4f2f-99eb-3443aa280dac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oyOCAUtydLJW5HT72mFKc47hG4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.C:/Users/Administrator/IdeaProjects/AssignmentThreeWithPOM/src/test/resources/TestNgSuites/testing-case1.xml.executor": "Run",
+    "TestNG.C:/Users/Administrator/IdeaProjects/AssignmentThreeWithPOM/src/test/resources/TestNgSuites/testing-case5.xml.executor": "Run",
+    "TestNG.C:/Users/Administrator/IdeaProjects/AssignmentThreeWithPOM/src/test/resources/testing-case1.xml.executor": "Run",
+    "TestNG.C:/Users/Administrator/IdeaProjects/AssignmentThreeWithPOM/src/test/resources/testing.xml.executor": "Run",
+    "TestNG.CareersChecker.executor": "Run",
+    "TestNG.DealsPageInfoChecker.executor": "Run",
+    "TestNG.EbaySearchAddToCart.executor": "Run",
+    "TestNG.EbaySearchAddToCart.searchAndBuySamsungPhone.executor": "Run",
+    "TestNG.EbaySearchAddtoWatchlist.executor": "Run",
+    "TestNG.EbaySearchTest.executor": "Run",
+    "TestNG.EbaySearchTest.searchAndBuySamsungPhone.executor": "Run",
+    "TestNG.EbaySearchTestBuyItNow.executor": "Run",
+    "TestNG.EbaySearchWithWrongLocator.executor": "Run",
+    "TestNG.HelpAndConatctInfo.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.testValidLogin.executor": "Run",
+    "TestNG.SellerPageInfo.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Administrator/IdeaProjects/AssignmentThreeWithPOM/src/test/resources/TestNgSuites",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.tabs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\AssignmentThreeWithPOM\src\test\resources\TestNgSuites" />
+      <recent name="C:\Users\Administrator\IdeaProjects\AssignmentThreeWithPOM\src\test\resources\Testdata" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\AssignmentThreeWithPOM\src\test\resources\TestNgSuites" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TestCases" />
+      <recent name="Pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CareersChecker">
+    <configuration name="CareersChecker" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentThreeWithPOM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.CareersChecker" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DealsPageInfoChecker" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentThreeWithPOM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.DealsPageInfoChecker" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EbaySearchAddToCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentThreeWithPOM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.EbaySearchAddToCart" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EbaySearchWithWrongLocator" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentThreeWithPOM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.EbaySearchWithWrongLocator" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SellerPageInfo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssignmentThreeWithPOM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestCases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestCases" />
+      <option name="MAIN_CLASS_NAME" value="TestCases.SellerPageInfo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CareersChecker" />
+        <item itemvalue="TestNG.SellerPageInfo" />
+        <item itemvalue="TestNG.DealsPageInfoChecker" />
+        <item itemvalue="TestNG.EbaySearchAddToCart" />
+        <item itemvalue="TestNG.EbaySearchWithWrongLocator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e91790dc-f936-4f2f-99eb-3443aa280dac" name="Changes" comment="" />
+      <created>1731838220509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731838220509</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:io.reactivex.rxjava3:rxjava" />
+    <option featureType="dependencySupport" implementationName="java:org.seleniumhq.selenium:selenium-java" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+</project>
